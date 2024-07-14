@@ -15,7 +15,7 @@ export default function Footer() {
         
   
         
-        <div className="d-flex">
+        <div className="d-flex align-self-center">
           <a href="https://www.facebook.com/profile.php?id=100033829628541&mibextid=ZbWKwL" className="me-3">
             <i className="bi bi-facebook text-dark-emphasis fs-2"></i>
           </a>

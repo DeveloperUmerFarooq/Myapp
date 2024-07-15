@@ -186,11 +186,4 @@ nav{
   width: 100%;
   }
 }
-@media screen and (width<600) {
-  html,body{
-  width: 100%;
-  }
-  #Intro{
-    transform: translateX(-10%);
-  }
-}
+

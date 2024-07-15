@@ -191,6 +191,6 @@ nav{
   width: 100%;
   }
   #Intro{
-    transform=translateX(-50px)
+    transform: translateX(-50px);
   }
 }

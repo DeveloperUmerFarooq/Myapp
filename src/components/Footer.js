@@ -9,21 +9,21 @@ export default function Footer() {
                className="d-flex justify-content-between p-4 bg-dark-subtle "
                >
         
-        <div className="me-5 text-dark-emphasis  fs-5 h3">
+        <div className="me-5 text-dark-emphasis align-self-center fs-5 h3">
           <span>Get connected with us on social networks:</span>
         </div>
         
   
         
-        <div>
+        <div className="d-flex align-self-center">
           <a href="https://www.facebook.com/profile.php?id=100033829628541&mibextid=ZbWKwL" className="me-3">
-            <i className="bi bi-facebook text-dark-emphasis"></i>
+            <i className="bi bi-facebook text-dark-emphasis fs-2"></i>
           </a>
           <a href="https://www.instagram.com/umerfarooq3935?igsh=MXBpYjR3OXYxdGlwbg==" className="me-3 ">
-            <i className="bi bi-instagram text-dark-emphasis"></i>
+            <i className="bi bi-instagram text-dark-emphasis fs-2"></i>
           </a>
           <a href="https://www.linkedin.com/in/muhammad-umer-farooq-23a781305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="me-3 ">
-            <i className="bi bi-linkedin text-dark-emphasis"></i>
+            <i className="bi bi-linkedin text-dark-emphasis fs-2"></i>
           </a>
         </div>
        

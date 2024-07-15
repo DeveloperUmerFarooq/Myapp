@@ -27,7 +27,7 @@ export default function Home() {
             />
           </span>
             <br></br></p>
-          <p className='d-inline fs-2 text-success fw-bold '> <span style={{ color: '#a7c957', fontWeight: 'bold' }}>
+          <p className='d-inline fs-3 text-success fw-bold '> <span style={{ color: '#a7c957', fontWeight: 'bold' }}>
             {/* Style will be inherited from the parent element */}
             <Typewriter
               words={['Looking for a job', 'Hire me !']}

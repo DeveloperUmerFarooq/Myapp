@@ -14,8 +14,8 @@ export default function Home() {
         <div className='col-lg rounded-lg-5 mt-lg-5' id='svg'>
         </div>
         <div className='col-lg align-content-lg-center' id='Intro'>
-          <h1 className='pb-0'>Muhammad Umer Farooq</h1>
-          <p className=' d-inline fs-1 text-light'>I am currently <span className='text-info' style={{ fontWeight: 'bold' }}>
+          <h1 className='pb-0 fs-1 h1'>Muhammad Umer Farooq</h1>
+          <p className=' d-inline fs-2 text-light'>I am currently <span className='text-info' style={{ fontWeight: 'bold' }}>
             {/* Style will be inherited from the parent element */}
             <Typewriter
               words={['aiming for Full Stack.', ' a Front-end web-developer.']}
@@ -27,7 +27,7 @@ export default function Home() {
             />
           </span>
             <br></br></p>
-          <p className='d-inline fs-2 text-success fw-bold '> <span style={{ color: '#a7c957', fontWeight: 'bold' }}>
+          <p className='d-inline fs-3 text-success fw-bold '> <span style={{ color: '#a7c957', fontWeight: 'bold' }}>
             {/* Style will be inherited from the parent element */}
             <Typewriter
               words={['Looking for a job', 'Hire me !']}

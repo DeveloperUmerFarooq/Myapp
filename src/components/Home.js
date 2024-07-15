@@ -14,7 +14,7 @@ export default function Home() {
         <div className='col-lg rounded-lg-5 mt-lg-5' id='svg'>
         </div>
         <div className='col-lg align-content-lg-center' id='Intro'>
-          <h1 className='pb-0'>M. Umer Farooq</h1>
+          <h1 className='pb-0'>Muhammad Umer Farooq</h1>
           <p className=' d-inline fs-1 text-light'>I am currently <span className='text-info' style={{ fontWeight: 'bold' }}>
             {/* Style will be inherited from the parent element */}
             <Typewriter

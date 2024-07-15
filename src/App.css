@@ -35,7 +35,7 @@ html,body{
   overflow-y: hidden;
 }
 #Intro h1{
-  font-size: clamp(40px,10vw,100px);
+  font-size: clamp(20px,10vw,100px);
   animation:fade-in 1s ease-in;
 }
 button{

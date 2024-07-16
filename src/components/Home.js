@@ -46,7 +46,7 @@ export default function Home() {
         <div className='container'>
           <div className='row'>
             {images.map((image, index) => (
-              <div key={index} className='flex-column fs-5 col-lg-1 col-md-3 col-4 pt-4 align-content-center justify-content-center tech' data-aos="fade-up" data-aos-delay={(window.innerWidth>1000?index * 250:(index/3)*250}>
+              <div key={index} className='flex-column fs-5 col-lg-1 col-md-3 col-4 pt-4 align-content-center justify-content-center tech' data-aos="fade-up" data-aos-delay={(window.innerWidth>1000?index * 250:((index/3)*250)}>
                 <img src={image.src} alt='' />
                 <p className='fs-6 fw-bolder' id='tech-text'>{image.disc}</p>
               </div>

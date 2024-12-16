@@ -1,50 +1,50 @@
 [
     {
-        "src":"images/html.png",
+        "src":"/images/html.png",
         "disc":"HTML"
     },
     {
-        "src":"images/CSS.png",
+        "src":"/images/CSS.png",
         "disc":"CSS"
     },
     {
-        "src":"images/Bootstrap.png",
+        "src":"/images/Bootstrap.png",
         "disc":"Bootstrap"
     },
     {
-        "src":"images/js.png",
+        "src":"/images/js.png",
         "disc":"Javascript"
     },
     {
-        "src":"images/react.png",
+        "src":"/images/react.png",
         "disc":"React JS"
     },
     {
-        "src":"images/node.png",
+        "src":"/images/node.png",
         "disc":"Node JS"
     },
     {
-        "src":"images/express.png",
+        "src":"/images/express.png",
         "disc":"Express JS"
     },
     {
-        "src":"images/Json.png",
+        "src":"/images/Json.png",
         "disc":"JSON"
     },
     {
-        "src":"images/python.png",
+        "src":"/images/python.png",
         "disc":"Pyhton"
     },
     {
-        "src":"images/c++.png",
+        "src":"/images/c++.png",
         "disc":"C++"
     },
     {
-        "src":"images/mongo.png",
+        "src":"/images/mongo.png",
         "disc":"Mongo DB"
     },
     {
-        "src":"images/sql.png",
+        "src":"/images/sql.png",
         "disc":"My SQL"
     }
     

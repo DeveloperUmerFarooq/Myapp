@@ -39,7 +39,7 @@ export default function Footer() {
  
             <h6 className='text-light text-uppercase fw-bold mb-1'>About Me</h6>
                             <hr className='mb-4 mt-0  d-inline-block w-25 text-light'/>
-                            <p className='text-light text-center text-md-start m-sm-1'>Muhammad Umer Farooq is a front-end developer with expertise in HTML5, CSS3, JavaScript, and React.js. With experience in Laravel and API integration, he aims to transition into a full-stack role. Driven by innovation, he seeks to contribute to impactful projects.</p>  
+                            <p className='text-light text-center text-md-start'>I am a front-end developer skilled in HTML5, CSS3, JavaScript, and React.js, with experience in Laravel and API integration. He seeks to grow into a full-stack developer role.</p>  
             </div>
            
             <div className="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
@@ -59,8 +59,7 @@ export default function Footer() {
                             <Link className='text-light text-decoration-none' to='/about'>About</Link>
                             </p>
             </div>
-           
-            <div className="col-md-4 col-lg-3 col-xl-3 mx-auto  mb-md-0 mb-4">
+            <div className="col-md-3 col-lg-3 col-xl-3 mx-auto  mb-md-0 mb-4">
           
             <h6 className='text-uppercase fw-bold text-light mb-1'>Contact</h6>
                         <hr className='mb-4 mt-0 mx-auto d-inline-block w-25 text-light'/>
@@ -71,7 +70,6 @@ export default function Footer() {
             </div>
             
           </div>
-       
         </div>
       </section>
       <div

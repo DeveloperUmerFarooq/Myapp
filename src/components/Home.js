@@ -10,7 +10,7 @@ export default function Home() {
   }, [])
   return (
     <div className='container-fluid text-center fs-1 pt-5' id='Home' >
-      <div className='row flex-lg-row-reverse p-5 pb-0 mb-sm-5 mt-lg-5 text-light text-start'>
+      <div className='row flex-lg-row-reverse p-0 p-md-5 pb-0 mb-sm-5 mt-lg-5 text-light text-start'>
         <div className='col-lg rounded-lg-5 mt-lg-5' id='svg'>
         </div>
         <div className='col-lg align-content-lg-center' id='Intro'>

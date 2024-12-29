@@ -9,7 +9,7 @@ export default function Footer() {
                className="d-flex justify-content-between p-4 bg-dark-subtle "
                >
         
-        <div className="me-5 text-dark-emphasis align-self-center  h3 res-font">
+        <div className="me-5 text-dark-emphasis align-self-center h3 res-font">
           <span>Get connected with me on social networks:</span>
         </div>
         
@@ -17,13 +17,13 @@ export default function Footer() {
         
         <div className="d-flex align-self-center">
           <a href="https://www.facebook.com/profile.php?id=100033829628541&mibextid=ZbWKwL" className="me-3">
-            <i className="bi bi-facebook text-dark-emphasis fs-2"></i>
+            <i className="bi bi-facebook text-dark-emphasis res-font"></i>
           </a>
           <a href="https://www.instagram.com/umerfarooq3935?igsh=MXBpYjR3OXYxdGlwbg==" className="me-3 ">
-            <i className="bi bi-instagram text-dark-emphasis fs-2"></i>
+            <i className="bi bi-instagram text-dark-emphasis res-font"></i>
           </a>
           <a href="https://www.linkedin.com/in/muhammad-umer-farooq-23a781305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="me-3 ">
-            <i className="bi bi-linkedin text-dark-emphasis fs-2"></i>
+            <i className="bi bi-linkedin text-dark-emphasis res-font"></i>
           </a>
         </div>
        
@@ -39,18 +39,7 @@ export default function Footer() {
  
             <h6 className='text-light text-uppercase fw-bold mb-1'>About Me</h6>
                             <hr className='mb-4 mt-0  d-inline-block w-25 text-light'/>
-                            <p className='text-light text-center text-md-start m-sm-1'>Currenntly a forntend developer.Finding a first job to improve forntend skills and then move on to backend.Aiming to be a fullstack web developer</p>  
-            </div>
-
-            <div className="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
-         
-            <h6 className='text-uppercase fw-bold text-light mb-1'>Frontend Tech Stack</h6>
-                        <hr className='mb-4 mt-0 mx-auto d-inline-block w-25 text-light'/>
-                        <p>HTML</p>
-                        <p>CSS</p>
-                        <p>Javascript</p>
-                        <p>Bootstrap</p>
-                        <p>React Js</p>
+                            <p className='text-light text-center text-md-start m-sm-1'>Muhammad Umer Farooq is a front-end developer with expertise in HTML5, CSS3, JavaScript, and React.js. With experience in Laravel and API integration, he aims to transition into a full-stack role. Driven by innovation, he seeks to contribute to impactful projects.</p>  
             </div>
            
             <div className="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">

@@ -13,11 +13,11 @@ export default function About() {
             <hr className='w-100 mb-3'></hr>
             <h1 className='text-center'>Personal Details</h1>
                     <ul type='none' className='text-center text-md-start'>
-                          <li className='row'><p className='col-lg-4 col-md-3 d-flex res-font'><i className="bi bi-person-circle mx-md-1"></i>Name:</p><p className='col-md res-font'>Muhammad Umer Farooq</p></li>
-                          <li className='row'><p className='col-lg-4 col-md-3 d-flex res-font'><i className="bi bi-person-check-fill mx-md-1"></i>Age:</p><p className='col-md res-font'>21</p></li>
-                          <li className='row'><p className='col-lg-4 col-md-3 d-flex res-font'><i className='bi bi-telephone-inbound-fill mx-md-1'></i>Phone:</p><p className='col-md res-font'>+92-305-4079045</p></li>
-                          <li className='row'><p className='col-lg-4 col-md-3 d-flex res-font'><i className='bi bi-envelope-at-fill mx-md-1'></i>Email:</p><p className='col-md res-font'>umerfarooq.web.dev@gmail.com</p></li>
-                          <li className='row'><p className='col-lg-4 col-md-3 d-flex res-font'><i className='bi bi-house-door-fill mx-md-1'></i>Address:</p><p className='col-md res-font'>House no.335/LDA,Tanki no.56,Railway Power House,Mughaplura,Lahore</p></li>
+                          <li className='row'><p className='col-lg-4 col-md-3 d-flex res-font'><i className="bi bi-person-circle mx-1"></i>Name:</p><p className='col-md res-font'>Muhammad Umer Farooq</p></li>
+                          <li className='row'><p className='col-lg-4 col-md-3 d-flex res-font'><i className="bi bi-person-check-fill mx-1"></i>Age:</p><p className='col-md res-font'>21</p></li>
+                          <li className='row'><p className='col-lg-4 col-md-3 d-flex res-font'><i className='bi bi-telephone-inbound-fill mx-1'></i>Phone:</p><p className='col-md res-font'>+92-305-4079045</p></li>
+                          <li className='row'><p className='col-lg-4 col-md-3 d-flex res-font'><i className='bi bi-envelope-at-fill mx-1'></i>Email:</p><p className='col-md res-font'>umerfarooq.web.dev@gmail.com</p></li>
+                          <li className='row'><p className='col-lg-4 col-md-3 d-flex res-font'><i className='bi bi-house-door-fill mx-1'></i>Address:</p><p className='col-md res-font'>House no.335/LDA,Tanki no.56,Railway Power House,Mughaplura,Lahore</p></li>
                     </ul>
             </div>
           </div>

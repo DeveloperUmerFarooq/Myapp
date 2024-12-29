@@ -44,6 +44,9 @@ html,body{
 #Role,#Req{
   font-size: clamp(20px,5vw,50px) !important;
 }
+.res-font{
+  font-size: clamp(1rem, 2vw, 1.25rem) !important;
+}
 button{
   transition: all 1s ease-in;
 }

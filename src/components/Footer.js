@@ -9,8 +9,8 @@ export default function Footer() {
                className="d-flex justify-content-between p-4 bg-dark-subtle "
                >
         
-        <div className="me-5 text-dark-emphasis align-self-center fs-5 h3">
-          <span>Get connected with us on social networks:</span>
+        <div className="me-5 text-dark-emphasis align-self-center  h3 res-font">
+          <span>Get connected with me on social networks:</span>
         </div>
         
   

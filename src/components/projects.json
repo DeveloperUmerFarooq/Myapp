@@ -1,5 +1,20 @@
 [
     {
+        "src":"/projects/InnoTech.png",
+        "title":"InnoTech Solutions",
+        "disc":"A responsive bussiness portfolio website using react js and bootstrap for a local client."
+    },
+    {
+        "src":"/projects/Foodies.png",
+        "title":"Foodies",
+        "disc":"A basic MERN Stack project for basic implementation of REST API using order placement functionality and login authentication"
+    },
+    {
+        "src":"/projects/Skylink.png",
+        "title":"Skylink Tech Inc",
+        "disc":"A responsive client provided bussiness portfolio website design using html, bootstrap,css and jQuery and bootstrap for a local client."
+    },
+    {
         "src":"/projects/portfolio.png",
         "title":"Portfolio",
         "disc":"React Project with basic understanding of AOS ,JSON and UseEffext"
@@ -28,20 +43,5 @@
         "src":"/projects/Techy.png",
         "title":"Techy",
         "disc":"HTML CSS Javascript project a simple landing with basic animations and scroll animation"
-    },
-    {
-        "src":"/projects/rock.png",
-        "title":"Rock Paper Scissors",
-        "disc":"Javascript project for basic understanding of conditional statements and random choice generation"
-    },
-    {
-        "src":"/projects/calculator.png",
-        "title":"Calculator",
-        "disc":"Html,CSS and basic arithematic javascript project"
-    },
-    {
-        "src":"/projects/randompass.png",
-        "title":"Random Password Generator",
-        "disc":"Html,CSS and basic knowlege of concatenation and generating random string using multiple strings"
-    }   
+    }  
 ]

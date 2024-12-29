@@ -15,10 +15,10 @@ export default function Home() {
         </div>
         <div className='col-lg align-content-lg-center' id='Intro'>
           <h1 className='pb-0'>Muhammad Umer Farooq</h1>
-          <p className=' d-inline fs-1 text-light'>I am currently <span className='text-info' style={{ fontWeight: 'bold' }}>
+          <p className=' d-inline fs-1 text-light'>I specialize in <span className='text-info' style={{ fontWeight: 'bold', textWrap:'balance' }}>
             {/* Style will be inherited from the parent element */}
             <Typewriter
-              words={['aiming for Full Stack.', ' a Front-end web-developer.']}
+              words={['Full Stack Web Development.', 'Front-End Web Development.']}
               loop={1}
               typeSpeed={100}
               deleteSpeed={50}
@@ -46,7 +46,7 @@ export default function Home() {
         <div className='container'>
           <div className='row'>
             {images.map((image, index) => (
-              <div key={index} className='flex-column fs-5 col-lg-1 col-md-3 col-4 pt-4 align-content-center justify-content-center tech' data-aos="fade-up" data-aos-delay={(window.innerWidth>1000?index * 250:(index/3)*300)}>
+              <div key={index} className='flex-column fs-5 col-lg-1 col-md-3 col-4 pt-4 align-content-center justify-content-center tech' data-aos="fade-up" data-aos-delay={(index % 5) * 200}>
                 <img src={image.src} alt='' />
                 <p className='fs-6 fw-bolder' id='tech-text'>{image.disc}</p>
               </div>

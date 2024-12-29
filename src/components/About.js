@@ -9,8 +9,7 @@ export default function About() {
           <div className='col-lg text-start fs-5 rounded-5 ' id='about-info'>
             <div id='child' className='container p-1'>
             <h1 className='pt-md-3 text-center'>About ME</h1>
-            I'm a front-end web developer skilled in HTML, CSS, JavaScript, Bootstrap, and React.js. I also have basic knowledge of C++, Python, Node.js, Express, and databases like MongoDB and MySQL. My goal is to become a full-stack developer.
-            I'm currently seeking an internship to enhance my front-end skills and eventually transition to mastering back-end technologies. I'm passionate about learning and excited to contribute to innovative projects.
+            I am Muhammad Umer Farooq, a front-end developer skilled in HTML5, CSS3, JavaScript, and React.js, with expertise in creating responsive, high-performance websites. During my internship at IntelliWeb Solutions, I gained experience in Laravel, API integration, and secure CRUD operations. My projects, including a MERN-based food delivery app and a Laravel fitness platform, reflect my ability to blend creativity with technical skills. Currently, I’m advancing toward a full-stack role, focusing on CMS and RESTful APIs, and I’m eager to contribute to innovative projects in collaborative environments.
             <hr className='w-100 mb-3'></hr>
             <h1 className='text-center'>Personal Details</h1>
                     <ul type='none' className='text-center text-md-start'>

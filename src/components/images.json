@@ -20,6 +20,10 @@
         "disc":"React JS"
     },
     {
+        "src":"/images/Laravel.png",
+        "disc":"Laravel"
+    },
+    {
         "src":"/images/node.png",
         "disc":"Node JS"
     },
@@ -46,6 +50,15 @@
     {
         "src":"/images/sql.png",
         "disc":"My SQL"
+    },
+    {
+        "src":"/images/Jquery.png",
+        "disc":"jQuery"
+    },
+    {
+        "src":"/images/Git.png",
+        "disc":"Git & Github"
     }
+    
     
 ]

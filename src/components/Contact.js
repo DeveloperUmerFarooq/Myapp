@@ -17,7 +17,7 @@ export default function Contact() {
               
               <input type="text" className="form-control w-100" id="name" name="name"  placeholder='Enter Your Name' required/>
           
-              <label htmlFor="email" className="form-label res-font">Email address</label>
+              <label htmlFor="email mt-1" className="form-label res-font">Email address</label>
               <input type="email" className="form-control mb-3 w-100" id="email" name="email"  placeholder='Enter Your Email' required/>
       
               <div className='row'>

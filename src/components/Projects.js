@@ -11,11 +11,11 @@ export default function Projects() {
         <div className='container-fluid mt-5 pb-5 pt-5'>
           <div className='row gap-3 mx-auto justify-content-center'>
             {projects.map((elem,index)=>(
-              <div key={index} className='card bg-dark-subtle col-lg-4 col-md-6 mb-2 p-0 border-0 rounded-3' style={{width: 'clamp(20rem, 30vw, 30rem)'}} data-aos="fade-in">
+              <div key={index} className='card bg-dark-subtle col-lg-4 col-md-6 mb-2 p-0 border-0 rounded-3' style={{width: 'clamp(20rem, 30vw, 30rem)',height: 'clamp(22rem, 20vw, 25rem)'}} data-aos="fade-in">
               <img src={elem.src} className='rounded-top-3' alt='' id='card-img'></img>
-                  <div className='text-start fs-4 bg-dark-subtle text-black pt-3' id='card-text'>
+                  <div className='text-start bg-dark-subtle text-black pt-3 rounded-3' id='card-text'>
                     <h1 className='card-title fs-3 text-center'>{elem.title}</h1>
-                    <p className='px-3'>{elem.disc}</p>
+                    <p className='px-md-3 px-1 res-font'>{elem.disc}</p>
                   </div>
                 </div>
             ))}

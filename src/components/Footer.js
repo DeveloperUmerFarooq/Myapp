@@ -39,7 +39,7 @@ export default function Footer() {
  
             <h6 className='text-light text-uppercase fw-bold mb-1'>About Me</h6>
                             <hr className='mb-4 mt-0  d-inline-block w-25 text-light'/>
-                            <p className='text-light text-center text-md-start'>I am a front-end developer skilled in HTML5, CSS3, JavaScript, and React.js, with experience in Laravel and API integration. He seeks to grow into a full-stack developer role.</p>  
+                            <p className='text-light text-center text-md-start'>I am a front-end developer skilled in HTML5, CSS3, JavaScript, jQuery, and React.js, with experience in Laravel and API integration. I am seeking to grow into a full-stack developer role.</p>  
             </div>
            
             <div className="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">

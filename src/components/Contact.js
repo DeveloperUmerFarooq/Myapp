@@ -9,7 +9,7 @@ export default function Contact() {
     
         </div>
         <div className='col-lg rounded-5' id="form" >
-          <form className='p-5 row flex-column shadow rounded-5' action="https://api.web3forms.com/submit" method="POST" id='child'>
+          <form className='p-md-5 p-sm-3 p-1 row flex-column shadow rounded-5' action="https://api.web3forms.com/submit" method="POST" id='child'>
           <input type="hidden" name="access_key" value="26429c7f-984e-444c-b499-b756a3fa93f0"/>
               
               <label htmlFor="name" className="form-label col-9 res-font">Name</label>

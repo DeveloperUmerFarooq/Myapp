@@ -15,7 +15,7 @@ export default function Home() {
         </div>
         <div className='col-lg align-content-lg-center' id='Intro'>
           <h1 className='pb-0'>Muhammad Umer Farooq</h1>
-          <p className=' d-inline fs-1 text-light'>I specialize in <span className='text-info' style={{ fontWeight: 'bold', textWrap:'balance' }}>
+          <p className=' d-inline fs-1 text-light' id='Role'>I specialize in <span className='text-info' style={{ fontWeight: 'bold', textWrap:'balance' }}>
             {/* Style will be inherited from the parent element */}
             <Typewriter
               words={['Full Stack Web Development.', 'Front-End Web Development.']}
@@ -27,7 +27,7 @@ export default function Home() {
             />
           </span>
             <br></br></p>
-          <p className='d-inline fs-3 text-success fw-bold '> <span style={{ color: '#a7c957', fontWeight: 'bold' }}>
+          <p className='d-inline fs-3 text-success fw-bold' id='Req'> <span style={{ color: '#a7c957', fontWeight: 'bold' }}>
             {/* Style will be inherited from the parent element */}
             <Typewriter
               words={['Looking for a job', 'Hire me !']}

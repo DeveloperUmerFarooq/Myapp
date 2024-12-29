@@ -41,6 +41,9 @@ html,body{
   font-size: clamp(40px,10vw,100px);
   animation:fade-in 1s ease-in;
 }
+#Role,#Req{
+  font-size: clamp(20px,5vw,50px) !important;
+}
 button{
   transition: all 1s ease-in;
 }
